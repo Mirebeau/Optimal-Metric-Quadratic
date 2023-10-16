@@ -1,0 +1,83 @@
+nbIter = 3
+nbIterDicho = 10
+triangleCountGoal = 2000
+P1L2
+coef : 1, nb triangles : 185
+coef : 1, nb triangles : 185
+coef : 2, nb triangles : 268
+coef : 4, nb triangles : 377
+coef : 8, nb triangles : 576
+coef : 16, nb triangles : 851
+coef : 32, nb triangles : 1385
+coef : 64, nb triangles : 2294
+coef : 48, nb triangles : 1876
+coef : 56, nb triangles : 2082
+coef : 52, nb triangles : 2024
+coef : 50, nb triangles : 1948
+coef : 51, nb triangles : 1967
+coef : 51.5, nb triangles : 1976
+coef : 51.75, nb triangles : 1972
+coef : 51.875, nb triangles : 2008
+coef : 51.8125, nb triangles : 1968
+coef : 51.8438, nb triangles : 2004
+P1H1
+coef : 1, nb triangles : 1360
+coef : 1, nb triangles : 1360
+coef : 2, nb triangles : 2154
+coef : 1.5, nb triangles : 1766
+coef : 1.75, nb triangles : 2003
+coef : 1.625, nb triangles : 1891
+coef : 1.6875, nb triangles : 1961
+coef : 1.71875, nb triangles : 2005
+coef : 1.70312, nb triangles : 2015
+coef : 1.69531, nb triangles : 1994
+coef : 1.69922, nb triangles : 1963
+coef : 1.70117, nb triangles : 1956
+coef : 1.70215, nb triangles : 2033
+P1H1Cond, maxCond = 100
+coef : 1, nb triangles : 703
+coef : 1, nb triangles : 703
+coef : 2, nb triangles : 1065
+coef : 4, nb triangles : 1759
+coef : 8, nb triangles : 2969
+coef : 6, nb triangles : 2325
+coef : 5, nb triangles : 2118
+coef : 4.5, nb triangles : 1920
+coef : 4.75, nb triangles : 2003
+coef : 4.625, nb triangles : 1967
+coef : 4.6875, nb triangles : 1980
+coef : 4.71875, nb triangles : 1966
+coef : 4.73438, nb triangles : 1996
+coef : 4.74219, nb triangles : 1945
+coef : 4.74609, nb triangles : 2014
+P2L2Cond, maxCond = 100
+coef : 1, nb triangles : 4202
+coef : 0.5, nb triangles : 2766
+coef : 0.25, nb triangles : 1794
+coef : 1, nb triangles : 4202
+coef : 0.375, nb triangles : 2434
+coef : 0.3125, nb triangles : 2089
+coef : 0.28125, nb triangles : 1967
+coef : 0.296875, nb triangles : 2117
+coef : 0.289062, nb triangles : 2117
+coef : 0.285156, nb triangles : 2064
+coef : 0.283203, nb triangles : 1986
+coef : 0.28418, nb triangles : 2014
+coef : 0.283691, nb triangles : 1983
+coef : 0.283936, nb triangles : 2019
+P2H1
+coef : 1, nb triangles : 734
+coef : 1, nb triangles : 734
+coef : 2, nb triangles : 1103
+coef : 4, nb triangles : 1836
+coef : 8, nb triangles : 3200
+coef : 6, nb triangles : 2517
+coef : 5, nb triangles : 2203
+coef : 4.5, nb triangles : 2043
+coef : 4.25, nb triangles : 1953
+coef : 4.375, nb triangles : 2004
+coef : 4.3125, nb triangles : 1959
+coef : 4.34375, nb triangles : 1993
+coef : 4.35938, nb triangles : 2029
+coef : 4.35156, nb triangles : 1974
+coef : 4.35547, nb triangles : 1992

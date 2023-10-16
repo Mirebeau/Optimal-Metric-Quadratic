@@ -1,0 +1,1 @@
+func metricxx =	MetricP1H1Condxx(fxx,fxy,fyy,H1Cond);func metricxy =	MetricP1H1Condxy(fxx,fxy,fyy,H1Cond);func metricyy =	MetricP1H1Condyy(fxx,fxy,fyy,H1Cond);

@@ -1,0 +1,81 @@
+nbIter = 3
+nbIterDicho = 10
+triangleCountGoal = 500
+P1L2
+coef : 1, nb triangles : 186
+coef : 1, nb triangles : 186
+coef : 2, nb triangles : 271
+coef : 4, nb triangles : 352
+coef : 8, nb triangles : 529
+coef : 6, nb triangles : 470
+coef : 7, nb triangles : 497
+coef : 7.5, nb triangles : 521
+coef : 7.25, nb triangles : 491
+coef : 7.375, nb triangles : 498
+coef : 7.4375, nb triangles : 517
+coef : 7.40625, nb triangles : 512
+coef : 7.39062, nb triangles : 508
+coef : 7.38281, nb triangles : 499
+coef : 7.38672, nb triangles : 503
+P1H1
+coef : 1, nb triangles : 1341
+coef : 0.5, nb triangles : 960
+coef : 0.25, nb triangles : 647
+coef : 0.125, nb triangles : 468
+coef : 1, nb triangles : 1341
+coef : 0.1875, nb triangles : 545
+coef : 0.15625, nb triangles : 537
+coef : 0.140625, nb triangles : 458
+coef : 0.148438, nb triangles : 493
+coef : 0.152344, nb triangles : 496
+coef : 0.154297, nb triangles : 487
+coef : 0.155273, nb triangles : 529
+coef : 0.154785, nb triangles : 483
+coef : 0.155029, nb triangles : 504
+coef : 0.154907, nb triangles : 499
+P1H1Cond, maxCond = 100
+coef : 1, nb triangles : 733
+coef : 0.5, nb triangles : 473
+coef : 1, nb triangles : 733
+coef : 0.75, nb triangles : 586
+coef : 0.625, nb triangles : 570
+coef : 0.5625, nb triangles : 506
+coef : 0.53125, nb triangles : 500
+coef : 0.546875, nb triangles : 489
+coef : 0.554688, nb triangles : 507
+coef : 0.550781, nb triangles : 509
+coef : 0.548828, nb triangles : 519
+coef : 0.547852, nb triangles : 511
+coef : 0.547363, nb triangles : 515
+P2L2Cond, maxCond = 100
+coef : 1, nb triangles : 3939
+coef : 0.5, nb triangles : 2572
+coef : 0.25, nb triangles : 1747
+coef : 0.125, nb triangles : 1140
+coef : 0.0625, nb triangles : 760
+coef : 0.03125, nb triangles : 493
+coef : 1, nb triangles : 3939
+coef : 0.046875, nb triangles : 605
+coef : 0.0390625, nb triangles : 597
+coef : 0.0351562, nb triangles : 474
+coef : 0.0371094, nb triangles : 593
+coef : 0.0361328, nb triangles : 503
+coef : 0.0356445, nb triangles : 541
+coef : 0.0354004, nb triangles : 518
+coef : 0.0352783, nb triangles : 539
+coef : 0.0352173, nb triangles : 524
+coef : 0.0351868, nb triangles : 478
+P2H1
+coef : 1, nb triangles : 726
+coef : 0.5, nb triangles : 478
+coef : 1, nb triangles : 726
+coef : 0.75, nb triangles : 624
+coef : 0.625, nb triangles : 542
+coef : 0.5625, nb triangles : 542
+coef : 0.53125, nb triangles : 476
+coef : 0.546875, nb triangles : 520
+coef : 0.539062, nb triangles : 510
+coef : 0.535156, nb triangles : 520
+coef : 0.533203, nb triangles : 482
+coef : 0.53418, nb triangles : 508
+coef : 0.533691, nb triangles : 478

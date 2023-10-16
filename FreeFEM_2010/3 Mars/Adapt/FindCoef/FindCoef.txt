@@ -1,0 +1,21 @@
+nbIter = 3
+nbIterDicho = 10
+triangleCountGoal = 2000
+P2L2
+coef : 1, nb triangles : 290
+coef : 1, nb triangles : 290
+coef : 2, nb triangles : 430
+coef : 4, nb triangles : 652
+coef : 8, nb triangles : 961
+coef : 16, nb triangles : 1589
+coef : 32, nb triangles : 2846
+coef : 24, nb triangles : 2126
+coef : 20, nb triangles : 1843
+coef : 22, nb triangles : 2057
+coef : 21, nb triangles : 1946
+coef : 21.5, nb triangles : 1994
+coef : 21.75, nb triangles : 1998
+coef : 21.875, nb triangles : 1987
+coef : 21.9375, nb triangles : 2018
+coef : 21.9062, nb triangles : 2017
+coef : 21.8906, nb triangles : 1991

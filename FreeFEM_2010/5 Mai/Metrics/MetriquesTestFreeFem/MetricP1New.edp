@@ -1,0 +1,1 @@
+func metricxx =	MetricP1xx(fxx,fxy,fyy);func metricxy =	MetricP1xy(fxx,fxy,fyy);func metricyy =	MetricP1yy(fxx,fxy,fyy);

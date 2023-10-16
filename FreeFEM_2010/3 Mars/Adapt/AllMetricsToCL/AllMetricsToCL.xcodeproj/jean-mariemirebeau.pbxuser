@@ -1,0 +1,206 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 297CD15C0FD956CB00B14565 /* AllMetricsToCL */;
+		activeTarget = 8DD76F620486A84900D96B5E /* AllMetricsToCL */;
+		addToTargets = (
+		);
+		codeSenseManager = 297CD1630FD956CF00B14565 /* Code sense */;
+		executables = (
+			297CD15C0FD956CB00B14565 /* AllMetricsToCL */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					586.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					584,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					696,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315185337;
+			PBXWorkspaceStateSaveDate = 315185337;
+		};
+		perUserProjectItems = {
+			2921952D12C958D5001A0F01 /* PBXTextBookmark */ = 2921952D12C958D5001A0F01 /* PBXTextBookmark */;
+			2921953C12C959C0001A0F01 /* PBXTextBookmark */ = 2921953C12C959C0001A0F01 /* PBXTextBookmark */;
+			292C114B12C94F0700B319BF /* PBXTextBookmark */ = 292C114B12C94F0700B319BF /* PBXTextBookmark */;
+			292C114C12C94F0700B319BF /* PBXTextBookmark */ = 292C114C12C94F0700B319BF /* PBXTextBookmark */;
+			29DAFBE5105105BA00D01F73 /* PBXTextBookmark */ = 29DAFBE5105105BA00D01F73 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 297CD1620FD956CF00B14565 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 988}}";
+			sepNavSelRange = "{1031, 0}";
+			sepNavVisRange = "{601, 1750}";
+		};
+	};
+	2921952D12C958D5001A0F01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 17";
+		rLen = 0;
+		rLoc = 374;
+		rType = 0;
+		vrLen = 1750;
+		vrLoc = 601;
+	};
+	2921953C12C959C0001A0F01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 39";
+		rLen = 0;
+		rLoc = 1031;
+		rType = 0;
+		vrLen = 1750;
+		vrLoc = 601;
+	};
+	292C114B12C94F0700B319BF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29750D861153BD6100F0B845 /* P1L2H1.h */;
+		name = "P1L2H1.h: 21";
+		rLen = 0;
+		rLoc = 701;
+		rType = 0;
+		vrLen = 1417;
+		vrLoc = 0;
+	};
+	292C114C12C94F0700B319BF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 298D22860FE01CB8007AB713 /* BasicMath.h */;
+		name = "BasicMath.h: 10";
+		rLen = 0;
+		rLoc = 143;
+		rType = 0;
+		vrLen = 664;
+		vrLoc = 0;
+	};
+	29750D861153BD6100F0B845 /* P1L2H1.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = P1L2H1.h;
+		path = "/Users/jean-mariemirebeau/Desktop/Programmes_These/FreeFem++/2010/3 Mars/Adapt/AllMetricsToCL/../Metriques/P1L2H1.h";
+		sourceTree = "<absolute>";
+	};
+	297CD15C0FD956CB00B14565 /* AllMetricsToCL */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AllMetricsToCL;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	297CD1620FD956CF00B14565 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	297CD1630FD956CF00B14565 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	298D22860FE01CB8007AB713 /* BasicMath.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {874, 607}}";
+			sepNavSelRange = "{143, 0}";
+			sepNavVisRange = "{0, 664}";
+		};
+	};
+	29DAFB90105002CB00D01F73 /* cmath */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = cmath;
+		path = "/Developer/SDKs/MacOSX10.5.sdk/usr/include/c++/4.0.0/cmath";
+		sourceTree = "<absolute>";
+	};
+	29DAFBE5105105BA00D01F73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29DAFB90105002CB00D01F73 /* cmath */;
+		name = "cmath: 180";
+		rLen = 17;
+		rLoc = 4580;
+		rType = 0;
+		vrLen = 1023;
+		vrLoc = 4009;
+	};
+	8DD76F620486A84900D96B5E /* AllMetricsToCL */ = {
+		activeExec = 0;
+		executables = (
+			297CD15C0FD956CB00B14565 /* AllMetricsToCL */,
+		);
+	};
+}

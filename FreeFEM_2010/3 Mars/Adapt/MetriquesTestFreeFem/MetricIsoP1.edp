@@ -1,0 +1,1 @@
+func metricxx = pow(normd2f,2/3.);func metricxy = 0;func metricyy = pow(normd2f,2/3.);

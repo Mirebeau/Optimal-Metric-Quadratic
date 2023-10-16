@@ -1,0 +1,10 @@
+Layer width : c = 10
+
+P2H1Cond : 2035 triangles.
+AlgosTested = {  P2H1Cond,  };
+NbTriangles = { 2035 ,  };
+coef = { 4.01562 , };
+erP1L2 = {};
+erP1H1 = { 2.40068 ,  };
+erP2L2 = { 0.000723766 ,   3.99598e-07 , };
+erP2H1 = { 0.0156334 ,  };

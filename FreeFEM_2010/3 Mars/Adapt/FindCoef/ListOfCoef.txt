@@ -1,0 +1,47 @@
+IsoP1
+nbIter = 3
+coef : 3.75, nb triangles : 502
+coef : 8.9375, nb triangles : 1000
+coef : 19.4062, nb triangles : 2004
+
+IsoP2
+nbIter = 3
+coef : 1.5, nb triangles : 501
+coef : 3.42188, nb triangles : 998
+coef : 7.53516, nb triangles : 1987
+
+P1L2
+nbIter = 3
+coef : 6.89062, nb triangles : 501
+coef : 20.0312, nb triangles : 996
+coef : 50.2188, nb triangles : 1992
+
+P1H1
+nbIter = 3
+coef : 0.17749, nb triangles : 499
+coef : 0.610352, nb triangles : 1016
+coef : 1.90625, nb triangles : 2002
+
+P1H1Cond, H1Cond = 100
+nbIter = 3
+coef : 0.546875, nb triangles : 503
+coef : 1.75098, nb triangles : 1002
+coef : 4.61719, nb triangles : 1996
+
+P2L2
+nbIter = 3
+coef : 2.9375, nb triangles : 499
+coef : 9, nb triangles : 1003
+coef : 21.875, nb triangles : 2007
+
+P2L2Cond, P2L2Cond = 10
+nbIter = 3
+coef : 2.875, nb triangles : 508
+coef : 7.07812, nb triangles : 1004
+coef : 16, nb triangles : 1992
+
+P2H1
+nbIter = 3
+coef : 0.5, nb triangles : 496
+coef : 1.67969, nb triangles : 1000
+coef : 4.40234, nb triangles : 1999

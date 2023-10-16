@@ -1,0 +1,50 @@
+//Noter que l'on part de square(sqrt(but), sqrt(but),[(x-0.5)*2,(y-0.5)*2]);
+
+/*
+//500 elements
+int LargeurUnif=16;real CoefIsoP1 = 3.75;
+real CoefIsoP2 = 1.5;
+real CoefP1L2=6.89062;real CoefP1H1=0.17749;real CoefP1H1Cond = 0.546875;real CoefP2L2=2.9375;real CoefP2L2Cond = 2.875;real CoefP2H1=0.5;
+*/
+
+/*
+//1000 elements
+int LargeurUnif=22;real CoefIsoP1 = 8.9375;
+real CoefIsoP2 =  3.42188;real CoefP1L2=20.0312;real CoefP1H1=0.610352;real CoefP1H1Cond = 1.75098;real CoefP2L2= 9;real CoefP2L2Cond = 7.07812;real CoefP2H1= 1.67969;
+*/
+
+/*
+//2000 elements
+int LargeurUnif=32;real CoefIsoP1 = 19.4062;
+real CoefIsoP2 = 7.53516;real CoefP1L2= 50.2188;real CoefP1H1= 1.90625;real CoefP1H1Cond = 4.61719;real CoefP2L2= 21.875;real CoefP2L2Cond = 16;real CoefP2H1= 4.40234;
+*/
+
+//dans l'autre arrangement
+//IsoP1
+coef500 = 3.75; coef1000 = 8.9375; coef2000 = 19.4062;
+
+//IsoP2
+coef500 = 1.5; coef1000 = 3.42188; coef2000 = 7.53516;
+
+//P1L2
+coef500 = 6.89062; coef1000 = 20.0312; coef2000 = 50.2188;
+
+//P1H1
+coef500 = 0.17749; coef1000 = 0.610352; coef2000 = 1.90625;
+
+//P1H1Cond, H1Cond = 100
+coef500 = 0.546875; coef1000 = 1.75098; coef2000 = 4.61719;
+
+//P2L2
+coef500 = 2.9375; coef1000 = 9; coef2000 = 21.875;
+
+//P2L2Cond, P2L2Cond = 10
+coef500 = 2.875; coef1000 = 7.07812; coef2000 = 16;
+
+//P2H1
+coef500 = 0.5; coef1000 = 1.67969; coef2000 = 4.40234;
+
+
+
+/****************** ancien *****************/
+/*int LargeurUnif=16;//Pour 500 triangles.real CoefIsoP1 = 3.5;real CoefP1L2=7;real CoefP1H1=0.15;real CoefP2L2=5.2;real CoefP2H1=0.5;*//* pour 750int LargeurUnif=18;real CoefIsoP1 = 2*3.5;real CoefP1L2=2*7;real CoefP1H1=2*0.15;real CoefP2L2=2*5.2;real CoefP2H1=2*0.5;*/int LargeurUnif=32;real CoefIsoP1 = 5.7*3.5;real CoefP1L2=7.1*7;real CoefP1H1=12.5*0.15;real CoefP1H1Cond = 4.6;real CoefP2L2=22.5;real CoefP2L2Cond = 22.5/2;real CoefP2H1=8.5*0.5;

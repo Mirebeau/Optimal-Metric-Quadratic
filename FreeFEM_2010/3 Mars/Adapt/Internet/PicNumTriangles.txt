@@ -1,0 +1,11 @@
+errors : P1L2, P1H1, P2L2, P2H1
+Layer width : c = 10
+
+P2L2 : 5194 triangles.
+AlgosTested = { P2L2Cond (P2L2Cond = 1),   };
+NbTriangles = { 5194 ,  };
+coef = { 22.5 , };
+erP1L2 = { 0.000160294 ,  };
+erP1H1 = { 4.72042 ,  };
+erP2L2 = { 3.09178e-07 , };
+erP2H1 = { 0.068242 ,  };

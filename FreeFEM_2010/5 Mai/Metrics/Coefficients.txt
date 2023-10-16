@@ -1,0 +1,56 @@
+Layer width : c = 10
+
+
+P1New
+coef : 1, nb triangles : 636
+coef : 0.5, nb triangles : 447
+coef : 1, nb triangles : 636
+coef : 0.75, nb triangles : 548
+coef : 0.625, nb triangles : 498
+coef : 0.6875, nb triangles : 545
+coef : 0.65625, nb triangles : 510
+coef : 0.640625, nb triangles : 505
+coef : 0.632812, nb triangles : 494
+coef : 0.636719, nb triangles : 508
+coef : 0.634766, nb triangles : 513
+
+P1CondNew
+coef : 1, nb triangles : 608
+coef : 0.5, nb triangles : 436
+coef : 1, nb triangles : 608
+coef : 0.75, nb triangles : 498
+coef : 0.875, nb triangles : 597
+coef : 0.8125, nb triangles : 512
+coef : 0.78125, nb triangles : 534
+coef : 0.765625, nb triangles : 562
+coef : 0.757812, nb triangles : 521
+coef : 0.753906, nb triangles : 511
+coef : 0.751953, nb triangles : 525
+
+P2New
+coef : 1, nb triangles : 706
+coef : 0.5, nb triangles : 447
+coef : 1, nb triangles : 706
+coef : 0.75, nb triangles : 580
+coef : 0.625, nb triangles : 519
+coef : 0.5625, nb triangles : 481
+coef : 0.59375, nb triangles : 499
+coef : 0.609375, nb triangles : 523
+coef : 0.601562, nb triangles : 506
+coef : 0.597656, nb triangles : 502
+coef : 0.595703, nb triangles : 504
+
+P2CondNew
+coef : 1, nb triangles : 711
+coef : 0.5, nb triangles : 446
+coef : 1, nb triangles : 711
+coef : 0.75, nb triangles : 583
+coef : 0.625, nb triangles : 522
+coef : 0.5625, nb triangles : 487
+coef : 0.59375, nb triangles : 494
+coef : 0.609375, nb triangles : 538
+coef : 0.601562, nb triangles : 497
+coef : 0.605469, nb triangles : 492
+coef : 0.607422, nb triangles : 520
+
+Target Number of triangles : 500

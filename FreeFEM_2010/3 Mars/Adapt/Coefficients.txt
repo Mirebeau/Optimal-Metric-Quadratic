@@ -1,0 +1,36 @@
+Layer width : c = 10
+
+
+UnifP2
+coef : 1, nb triangles : 26
+coef : 1, nb triangles : 26
+coef : 2, nb triangles : 26
+coef : 4, nb triangles : 42
+coef : 8, nb triangles : 86
+coef : 16, nb triangles : 150
+coef : 32, nb triangles : 292
+coef : 64, nb triangles : 686
+coef : 48, nb triangles : 412
+coef : 56, nb triangles : 434
+coef : 60, nb triangles : 614
+coef : 58, nb triangles : 598
+coef : 57, nb triangles : 586
+coef : 56.5, nb triangles : 576
+coef : 56.25, nb triangles : 570
+coef : 56.125, nb triangles : 438
+
+IsoP1H1
+coef : 1, nb triangles : 1000
+coef : 0.5, nb triangles : 618
+coef : 0.25, nb triangles : 384
+coef : 1, nb triangles : 1000
+coef : 0.375, nb triangles : 506
+coef : 0.3125, nb triangles : 443
+coef : 0.34375, nb triangles : 476
+coef : 0.359375, nb triangles : 484
+coef : 0.367188, nb triangles : 490
+coef : 0.371094, nb triangles : 482
+coef : 0.373047, nb triangles : 508
+coef : 0.37207, nb triangles : 508
+
+Target Number of triangles : 500
